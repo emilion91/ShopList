@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShopList</string>
+    <string name="action_settings">Hide Checkboxes</string>
+    <string name="item_message">Grocery Item</string>
+    <string name="add_button">Add</string>
+    <string name="display">Display Checkboxes</string>
+</resources>
